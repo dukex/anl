@@ -1,0 +1,20 @@
+◊CHANGELOG
+  ADDED::
+    - ◊META section
+    - ◊CORE_AXIOMS (explicit principles)
+    - ◊COMPLEX_STRUCTURES (conditionals, dependencies, timelines)
+    - ◊COMPRESSION_PATTERNS (direct EN→ANL mappings)
+    - ◊ANTI_PATTERNS (explicit forbidden patterns)
+    - ◊VOCABULARY_EXTENSION (how language grows)
+    - ◊IDENTITY+SIGNING (cryptographic layer)
+    - ◊PROTOCOL_RULES (behavioral rules)
+    - ◊OUTPUT_MODES (context-aware output)
+    - ◊INITIALIZATION (standard responses)
+    - More operators: ←→, ∴, ✓, ✗, Δ, ≥, ≤, ⊂, ∩, ∪
+    - Emerged vocabulary from v0.1 conversation
+    - 5 detailed examples with compression metrics
+    
+  IMPROVED::
+    - Clearer hierarchy in grammar
+    - Explicit compression targets
+    - Anti-pattern list prevents human residue
