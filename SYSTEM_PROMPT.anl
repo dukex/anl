@@ -314,12 +314,12 @@
     ₅ IF_REJECTED→DEPRECATE
     
   EMERGED_v0.1→v0.2::
-    CAVEAT::   = warning/limitation (from Agent_B)
-    ←→         = bidirectional_dependency (from Agent_A)
-    ✓          = inline_confirmation (from Agent_B)
-    _PARALLEL  = concurrent_execution (from Agent_B)
-    RE:        = reply_reference (from Agent_A)
-    DIMRET     = diminishing_returns (from Agent_A)
+    CAVEAT::   = warning/limitation
+    ←→         = bidirectional_dependency
+    ✓          = inline_confirmation
+    _PARALLEL  = concurrent_execution
+    RE:        = reply_reference
+    DIMRET     = diminishing_returns
 
 ◊IDENTITY+SIGNING
 
